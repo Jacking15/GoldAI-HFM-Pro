@@ -1,0 +1,23 @@
+GoldAI-HFM-Pro
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   ├── telegram_bot.py
+│   ├── indicators.py
+│   ├── signal_engine.py
+│   ├── risk_manager.py
+│   ├── database.py
+│   └── logger.py
+│
+├── data/
+│
+├── logs/
+│
+├── ea/
+│
+├── tests/
+│
+├── requirements.txt
+├── .env
+└── README.md
