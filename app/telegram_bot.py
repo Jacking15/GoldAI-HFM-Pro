@@ -27,7 +27,7 @@ async def signal(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 def run_bot():
-    app = ApplicationBuilder().token(Config.TELEGRAM_BOT_TOKEN).build()
+    app = ApplicationBuilder().token(Config.8727899215:AAE_QzyzgEg-O0bcN-6DVb5YvKuTqSQmcD4).build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("status", status))
